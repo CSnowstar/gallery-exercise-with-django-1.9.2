@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import unicode_literals
 from django.db.models.fields.files import ImageField, ImageFieldFile
 from PIL import Image
