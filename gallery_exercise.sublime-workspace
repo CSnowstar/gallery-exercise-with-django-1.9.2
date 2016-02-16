@@ -1,0 +1,562 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"font",
+				"font-variant"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"inn",
+				"inline-block"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"gw",
+				"gdipWin"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 421.0,
+		"last_filter": "js",
+		"selected_items":
+		[
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"lua",
+				"Set Syntax: Lua"
+			],
+			[
+				"pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"plant",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"JS",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 1049.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib2,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();os.makedirs(ipp) if not os.path.exists(ipp) else None;open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/L/Python/gallery_exercise"
+	],
+	"file_history":
+	[
+		"/E/L/Python/image_gallery_django/manage.py",
+		"/E/L/Python/image_gallery_django/gallery/real_urls.py",
+		"/E/L/Python/image_gallery_django/gallery/wsgi.py",
+		"/E/L/Python/image_gallery_django/items/urls.py",
+		"/E/L/Python/image_gallery_django/gallery/urls.py",
+		"/E/L/Python/image_gallery_django/gallery/settings.py",
+		"/E/L/Python/image_gallery_django/photo/admin.py",
+		"/E/L/Python/image_gallery_django/photo/tests.py",
+		"/E/L/Python/image_gallery_django/photo/models.py",
+		"/E/UD/Documents/Tencent Files/997596439/FileRecv/app(1)/src/app/items/fields/ThumbnailImageField.py",
+		"/E/UD/Documents/Tencent Files/997596439/FileRecv/app(1)/src/photo/views.py",
+		"/E/UD/Documents/Tencent Files/997596439/FileRecv/app(1)/src/photo/admin.py",
+		"/E/UD/Documents/Tencent Files/997596439/FileRecv/app(1)/src/app/items/fields.py",
+		"/E/UD/Documents/Tencent Files/997596439/FileRecv/app(1)/src/app/items.fields.py",
+		"/E/L/Python/django/django/django/db/models/fields/files.py",
+		"/E/UD/Documents/Tencent Files/997596439/FileRecv/app(1)/src/photo/ThumbnailImageField.py",
+		"/E/UD/Documents/Tencent Files/997596439/FileRecv/app(1)/src/app/settings.py",
+		"/C/Users/99759/AppData/Local/Temp/app-2016-2-15-23-40-16.txt",
+		"/F/DL/99759/desktop.ini",
+		"/D/L/csJava/magic_bow/pom.xml",
+		"/D/L/AMT/服务器.yml",
+		"/D/L/AMT/帝国资源中心数据库.sql",
+		"/D/L/AMT/HAWKAOC_数据库设计.sql",
+		"/Z/L/WWW/ssrc/index.php",
+		"/Z/L/WWW/ssrc/res.php",
+		"/Z/L/WWW/index.php",
+		"/Z/L/WWW/ssrc/debug.php",
+		"/Z/T/Privoxy/csnowstar.action",
+		"/C/Users/99759/Downloads/浩方电竞平台6.0.0-RC7绿色版/浩方电竞平台_官方绿色免安装版_使用说明.txt",
+		"/F/DL/T/求生之路2 免安装绿色简体中文版/求生之路2 免安装绿色简体中文版/Left_4_dead_2/如何开始游戏（重要）.txt",
+		"/F/DL/T/求生之路2 免安装绿色简体中文版/求生之路2 免安装绿色简体中文版/Left_4_dead_2/rev.ini",
+		"/C/Users/99759/AppData/Local/Temp/7zOCA24A818/changelog.txt",
+		"/D/T/AAuto/project/CSSTRE/hwyr.aau",
+		"/Z/L/WWW/ssrc/sftp-config.json",
+		"/Z/L/WWW/csnowstar/sftp-config.json",
+		"/Z/L/WWW/csnowstar/index.php",
+		"/C/Users/99759/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/csnowstar.tk.json",
+		"/C/users/99759/appdata/local/temp/sublime-sftp-browse-1438057470/SFTP_test server.json/phpwind/ssrc/res.php",
+		"/Z/L/WWW/ssrc/cres.php",
+		"/C/Users/99759/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/amtserver.json",
+		"/C/users/99759/appdata/local/temp/sublime-sftp-browse-1438056839/SFTP_test server.json/phpwind/ssrc/.htaccess",
+		"/Z/L/WWW/ssrc/.htaccess",
+		"/Z/T/phpStudy/MySQL/my.ini",
+		"/Z/L/WWW/csnowstar/.htaccess",
+		"/Z/L/WWW/csnowstar/_file-manager/.htaccess",
+		"/Z/L/WWW/kerwis.net/public_html/wp-content/plugins/akismet/.htaccess",
+		"/D/stu/WWW/.htaccess",
+		"/Zsftp-config.json",
+		"/D/T/phpStudy/使用说明.txt",
+		"/C/Users/99759/AppData/Local/Temp/7zO8B2C5F2F/使用说明.txt",
+		"/C/Users/99759/AppData/Local/Temp/sublime-sftp-browse-1437998224/SFTP_test server.json/phpwind/ssrc/port/index.php",
+		"/C/users/99759/appdata/local/temp/sublime-sftp-browse-1437984322/SFTP_test server.json/phpwind/ssrc/res.php",
+		"/C/Users/99759/AppData/Local/Temp/sublime-sftp-browse-1437983659/SFTP_test server.json/phpwind/.htaccess",
+		"/C/users/99759/appdata/local/temp/sublime-sftp-browse-1437921572/SFTP_test server.json/phpwind/ssrc/func.php",
+		"/C/users/99759/appdata/local/temp/sublime-sftp-browse-1437921288/SFTP_test server.json/phpwind/ssrc/res.php",
+		"/E/kiwix/install/.gitignore",
+		"/D/T/WWW/ssrc/res.php",
+		"/C/Users/99759/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/SFTP_test server.json",
+		"/C/Users/99759/AppData/Local/Temp/7zO8AA985DC/Main.cs",
+		"/C/users/99759/appdata/local/temp/sublime-sftp-browse-1437887486/SFTP_test server.json/phpwind/ssrc/index.php",
+		"/C/Users/99759/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+		"/C/Users/99759/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/99759/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/99759/AppData/Roaming/Adobe/Adobe Photoshop CC 2015/Adobe Photoshop CC 2015 Settings/PSUserConfig.txt",
+		"/C/Users/99759/AppData/Roaming/Adobe/Adobe Photoshop CC 2014/Adobe Photoshop CC 2014 Settings/PSUserConfig.txt",
+		"/C/Users/99759/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/C/Users/99759/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/E/BAK/sbwin_0724.aau",
+		"/Z/T/XMouse64/Spanish.xmbclp",
+		"/F/PF86/Privoxy/default.action",
+		"/F/PF86/Privoxy/csnowstar.action",
+		"/C/Users/99759/AppData/Local/Temp/7zEC93B7C01/install.txt",
+		"/F/PF86/Privoxy/gfw.action",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/T/AAuto/project/帝国资源中心/gdipTest.aau",
+		"/D/L/mcs/start.bat",
+		"/D/L/mcs/server.properties",
+		"/Z/T/XMouse64/XMBCSettings.xml",
+		"/D/T/AAuto/project/秋拓Search_/main.aau",
+		"/D/T/AAuto/project/文件站/文件站.main.aau",
+		"/D/T/AAuto/project/五子棋/default.main.aau",
+		"/D/T/QuickX/SPXY.BAT"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Photo",
+			"admin",
+			"url",
+			"polls",
+			"gallery",
+			"patterns",
+			"urls",
+			"polls",
+			"gallery",
+			"photo",
+			"items",
+			"photo",
+			"app",
+			"   ",
+			"static",
+			"photo",
+			",",
+			"-",
+			"ThumbnailImageField",
+			"-",
+			"object_id",
+			"return",
+			"33333",
+			"media",
+			"django_test",
+			"Password",
+			"item",
+			"codeblock",
+			"start",
+			"codeblock",
+			"       ",
+			"else",
+			"current_node",
+			"数据结构_表_内容",
+			"pathb",
+			"patha",
+			"xml_text",
+			"html",
+			"path",
+			"   ",
+			"filesize",
+			"filename",
+			"word_index",
+			"wordindex",
+			"word_images",
+			"wordindex",
+			"id_res",
+			"word",
+			"amt_rfiles",
+			"wordlist",
+			"words",
+			"amt",
+			".resview>.review-comment>li>",
+			"#content",
+			"#footer",
+			"#header",
+			"QRow",
+			"PageError",
+			"QRow",
+			"STATUS_",
+			"QRow",
+			"_lsunit",
+			"        '",
+			"e_type",
+			"url",
+			"QRow",
+			"$",
+			"AND ",
+			"//",
+			".resview>.content ",
+			"lsimg",
+			"margin: 8",
+			"CanSee",
+			"STATUS_PUBLISHED",
+			"imgs",
+			".resview>.content ",
+			"btn",
+			"kabg",
+			"header",
+			"info",
+			"{}\n",
+			">.{}",
+			"span",
+			"，",
+			"。",
+			"，",
+			"。",
+			"(.+)\\n\\1",
+			"awkward",
+			"(.+)\\n\\1",
+			"(.*)\\n\\1",
+			", ",
+			",",
+			"              ",
+			"',",
+			"GetEncoderClsid",
+			";\n",
+			"dl_u2b",
+			"u2bdler",
+			"urlwatch",
+			"暂未开放:",
+			"评论",
+			"&action=",
+			"action=",
+			"newreview",
+			"评分",
+			"($id){",
+			"($",
+			"char(15)",
+			"b_gamebase",
+			"case 'can",
+			"can",
+			"c",
+			"canEdit",
+			"canSee",
+			"canEdit",
+			"canManage",
+			"CanManage",
+			"<",
+			"p=",
+			"p",
+			"pmd5",
+			"//_",
+			"mysql_fetch_array",
+			"QRowNoErr",
+			"lower",
+			"内测",
+			"rcShadow"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\1",
+			"    "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 240.0
+	},
+	"pinned_build_system": "",
+	"project": "gallery_exercise.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"port",
+				"ssrc\\define\\PortDocument.php"
+			],
+			[
+				"res",
+				"ssrc\\res.php"
+			],
+			[
+				"index",
+				"ssrc\\index.php"
+			],
+			[
+				"docu",
+				"ssrc\\define\\PortDocument.php"
+			],
+			[
+				"view",
+				"ssrc\\view\\view.css"
+			],
+			[
+				"csnow",
+				"Z:\\T\\Privoxy\\csnowstar.action"
+			],
+			[
+				"vewcs",
+				"ssrc\\view\\view.css"
+			],
+			[
+				".sql",
+				"D:\\L\\AMT\\帝国资源中心数据库.sql"
+			],
+			[
+				"document",
+				"ssrc\\define\\PortDocument.php"
+			],
+			[
+				"rc.c",
+				"ssrc\\rc.css"
+			],
+			[
+				"vew.",
+				"ssrc\\view\\view.css"
+			],
+			[
+				"res.php",
+				"ssrc\\res.php"
+			],
+			[
+				"view.cs",
+				"ssrc\\view\\view.css"
+			],
+			[
+				"cres",
+				"ssrc\\cres.php"
+			],
+			[
+				"index.php",
+				"ssrc\\index.php"
+			],
+			[
+				"rc.cs",
+				"ssrc\\rc.css"
+			],
+			[
+				"func",
+				"ssrc\\func.php"
+			],
+			[
+				"amt.sql",
+				"D:\\L\\AMT\\帝国资源中心数据库.sql"
+			],
+			[
+				"csnowstara",
+				"Z:\\T\\Privoxy\\csnowstar.action"
+			],
+			[
+				"rc",
+				"ssrc\\rc.css"
+			],
+			[
+				"rc.css",
+				"ssrc\\rc.css"
+			],
+			[
+				".css",
+				"ssrc\\rc.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 875.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\L\\Python\\django\\HelloWorld\\django_HelloWorld.sublime-workspace"
+			],
+			[
+				"res",
+				"Z:\\L\\WWW\\ssrc\\ssrc.sublime-workspace"
+			]
+		],
+		"width": 665.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 427.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
